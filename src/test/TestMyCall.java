@@ -17,7 +17,7 @@ import java.util.concurrent.Future;
 import util.myCall;
 
 
-public class testMyCall {
+public class TestMyCall {
 
 	@SuppressWarnings("unchecked")
 	public static void main(String[] args) throws InterruptedException, ExecutionException {
