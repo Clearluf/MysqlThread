@@ -3,5 +3,11 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="E:/Jar/mysql-connector-java-8.0.13/mysql-connector-java-8.0.13.jar"/>
+	<classpathentry kind="lib" path="E:/Jar/apache.http/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/Jar/apache.http/httpclient-cache-4.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/Jar/apache.http/httpclient-win-4.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/Jar/apache.http/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="E:/Jar/apache.http/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/Jar/commons-logging.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
